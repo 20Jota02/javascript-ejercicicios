@@ -58,3 +58,8 @@ Swal.fire({
 	// imageHeight:
 	// imageAlt:
 });
+
+
+
+
+// es una listado de los utilizados para las alertas 
